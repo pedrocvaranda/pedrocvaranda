@@ -2,7 +2,9 @@
 
 ---
 
-Oi, me chamo Pao e comecei a usar o GitHub ano passado(?).
+**Oi, me chamo Pao e comecei a usar o GitHub ano passado(?). Vendo usando para estudos próprios junto ao https://replit.com/ e já fiz alguns projetos junto da organização https://kidsacademy.dev/! Decidi começar a ver Node.js e Python 3, mas também olho Html e Css.**
+
+**Caso esteja interessado em me contactar:**
 
 | Rede Social | Frequência | Link | Alternativa | Resultado |
 | --- | --- | --- | --- | --- |
