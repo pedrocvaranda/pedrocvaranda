@@ -8,5 +8,8 @@
 
 | Rede Social | Frequência | Link | Alternativa | Resultado |
 | --- | --- | --- | --- | --- |
-| Twitter | 5-7 | https://twitter.com/PaoOfc  | Discord | N me procura lá |
-| Discord | 10  | https://discord.gg/GBDXgnjedU | --- | É lá mn |
+| Twitter | 5-7 | [🛸**PaoOfc**](https://twitter.com/PaoOfc)  | Discord | N me procura lá |
+| Discord | 10  | [🚀**Servidor Studio S**](https://discord.gg/GBDXgnjedU) | --- | É lá mn |
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoOfc&layout=compact&show_icons=true&theme=dark)](https://github.com/PaoOfc/)
