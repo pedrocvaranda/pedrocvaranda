@@ -10,3 +10,6 @@
 | --- | --- | --- | --- | --- |
 | Twitter | 5-7 | [🛸**PaoOfc**](https://twitter.com/PaoOfc)  | Discord | N me procura lá |
 | Discord | 10  | [🚀**Servidor Studio S**](https://discord.gg/GBDXgnjedU) | --- | É lá mn |
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoOfc&layout=normal&show_icons=true&theme=tokyonight)
