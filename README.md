@@ -9,7 +9,7 @@
 
 | Rede Social | Frequência | Link | Alternativa | Resultado |
 | --- | --- | --- | --- | --- |
-| Twitter | 5-7 | [🛸**PaoOfc**](https://twitter.com/PaoOfc)  | Discord | N me procura lá |
+| Twitter | 5-7 | [🛸**pedrocvaranda**](https://twitter.com/pedrocvaranda)  | Discord | N me procura lá |
 | Discord | 10  | [🚀**Servidor Studio S**](https://discord.gg/GBDXgnjedU) | --- | É lá mn |
 
 ---
