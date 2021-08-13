@@ -8,9 +8,7 @@
 
 | Rede Social | Frequência | Link | Alternativa | Resultado |
 | --- | --- | --- | --- | --- |
-| Twitter | 5-7 | [🛸**pedrocvaranda**](https://twitter.com/pedrocvaranda)  | Discord | N me procura lá |
-| Discord | 10  | [🚀**Servidor Studio S**](https://discord.gg/GBDXgnjedU) | --- | É lá mn |
+| Twitter | 5-7 | [🛸 **pedrocvaranda**](https://twitter.com/pedrocvaranda)  | Discord | N me procura lá |
+| Discord | 10  | [🚀 **Servidor Studio S**](https://discord.gg/GBDXgnjedU) | --- | É lá mn |
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocvaranda&layout=normal&show_icons=true&theme=nord)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocvaranda&layout=compact&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
