@@ -1,7 +1,8 @@
 # 👋 Prazer
 
 
-**Oi, me chamo Pedro e comecei a usar o GitHub ano passado(?). Vendo usando para estudos próprios e já fiz alguns projetos junto da organização https://codaqui.dev! Decidi começar a ver Node.js e Python 3, mas também olho Html e Css.**
+**Oi, me chamo Pedro e comecei a usar o GitHub ano passado(?). Vendo usando para estudos próprios e já fiz alguns projetos junto da organização https://codaqui.dev! Decidi começar a ver Node.js e Python 3, mas também olho Html e Css.
+Além disso tudo, tenho alguns *hobbies* como ouvir [🎶 música](https://open.spotify.com/playlist/5WW7inOJYB7w5zN6ERtHlB?si=4ff62c0341f74cc1)**
 
 ---
 **Caso esteja interessado em me contactar:**
