@@ -15,5 +15,5 @@
  - 
 | Rede Social | Frequência | Link | Alternativa | Resultado |
 | --- | --- | --- | --- | --- |
-| Twitter | 5-7 | [🛸 **Meu Perfil**](https://twitter.com/pedrocvaranda)  | Discord | N me procura lá |
-| Steam | 10  | [🚀 **Meu Perfil**](https://steamcommunity.com/id/pvzin_/) | --- | É lá mn |
+| Twitter | 5-7 | [🛸 **Twitter**](https://twitter.com/pedrocvaranda)  | Telegram | Posso demorar a responder |
+| Telegram | 5-7 | [🛸 **Telegram**](https://t.me/pcvaranda)  | Twitter | Posso demorar a responder |
