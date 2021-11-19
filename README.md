@@ -9,9 +9,3 @@
  - 
  - 2021, Codaqui
 
-**Caso esteja interessado em me contactar:**
- - 
-| Rede Social | Frequência | Link | Alternativa | Resultado |
-| --- | --- | --- | --- | --- |
-| Twitter | 5-7 | [🛸 **Twitter**](https://twitter.com/pedrocvaranda)  | Telegram | Posso demorar a responder |
-| Telegram | 7-8 | [🚀 **Telegram**](https://t.me/pcvaranda)  | Twitter | Posso demorar a responder |
