@@ -5,7 +5,13 @@
 
 **Obrigado**
 
+![](https://media.discordapp.net/attachments/890601964193341451/923725726543400970/Cafe.gif?width=1205&height=605)
+
+**Conquistas:**
+ - 
+ - 2021, Medalha de Prata na Olimpíada Brasileira de Astronomia
+
+
 **Histórico:**
  - 
  - 2021, Codaqui
-
