@@ -5,9 +5,6 @@
 **Obrigado**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocvaranda&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 **Conquistas:**
  - 
  - 2021, Medalha de Prata na Olimpíada Brasileira de Astronomia
