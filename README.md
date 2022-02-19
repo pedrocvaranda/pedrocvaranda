@@ -4,6 +4,8 @@
 
 **Obrigado**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocvaranda&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **Conquistas:**
  - 
