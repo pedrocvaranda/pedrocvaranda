@@ -6,10 +6,6 @@
 
    ![Hi](https://cdnb.artstation.com/p/assets/images/images/042/057/817/original/maddie_creates-icon.gif?1633459850)
 
-**Conquistas:**
- - 
- - 2021, Medalha de Prata na Olimpíada Brasileira de Astronomia
-
 
 **Histórico:**
  - 
