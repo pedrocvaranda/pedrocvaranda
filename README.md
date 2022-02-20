@@ -7,7 +7,7 @@
 
    <img src="https://cdnb.artstation.com/p/assets/images/images/042/057/817/original/maddie_creates-icon.gif?1633459850" width="320" height="320"/>
 
-### Estou aprendendo
+### Estou aprendendo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>
 
