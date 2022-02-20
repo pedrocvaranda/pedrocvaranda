@@ -5,6 +5,6 @@
 
 ❓ Sou um "Fifeiro" nato. Jogo desde que me conheço como gente Fifa e 
 
-Obrigado
+Obrigado 👍
 
    ![Hi](https://cdnb.artstation.com/p/assets/images/images/042/057/817/original/maddie_creates-icon.gif?1633459850)
