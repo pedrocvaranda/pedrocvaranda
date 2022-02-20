@@ -13,3 +13,5 @@
 
 
 ### **Obrigado 👍**
+
+![Snake animation](https://github.com/pedrocvaranda/pedrocvaranda/blob/output/github-contribution-grid-snake.svg)
