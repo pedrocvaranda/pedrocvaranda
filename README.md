@@ -5,6 +5,12 @@
 
 ❓ Sou um "Fifeiro" nato. Jogo desde que me conheço como gente Fifa e 
 
-Obrigado 👍
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>
+
+
+### **Obrigado 👍**
 
    ![Hi](https://cdnb.artstation.com/p/assets/images/images/042/057/817/original/maddie_creates-icon.gif?1633459850)
+
