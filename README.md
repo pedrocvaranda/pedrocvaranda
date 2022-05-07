@@ -1,7 +1,7 @@
 ## Tudo bem? Me chamo Pedro! 🐲
 ### Seja bem-vindo a esse canto da internet que posso chamar de meu! 👋
 
-📚 Venho estudando e fazendo alguns projetos junto da organização [**Codaqui!**](https://codaqui.dev) Estudo Python há um ano e iniciei o estudo de GoLang. Já tive que trabalhar com Node mas não foi muito agradavel.
+📚 Estudo Python há um ano e iniciei o estudo de GoLang. Já tive que trabalhar com Node mas não foi muito agradavel. Participei por um ano da organização [**Codaqui!**](https://codaqui.dev) 
 
 🏟️ Sou um "Fifeiro" nato. Jogo Fifa desde que me conheço como gente!
 
@@ -21,7 +21,7 @@
 ## Hi, u can call me Pedro
 ### Welcome to this part of the internet that I call mine! 👋
 
-📚 I've been studying and doing some projects with [**Codaqui!**](https://codaqui.dev) I"ve been studying Python for a year and started to learn GoLang. I already had to work with Node but it wasn't very pleasant.
+📚 I"ve been studying Python for a year and started to learn GoLang. I already had to work with Node but it wasn't very pleasant. I participated for a year in the organization [**Codaqui!**](https://codaqui.dev)
 
 🏟️ I've been playing Fifa for as long as I can remember!
 
