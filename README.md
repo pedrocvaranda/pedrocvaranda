@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 16-year-old developer from Rio de Janeiro, Brazil<br>I've had a 2-year experience working/studying with [**Codaqui!**](https://codaqui.dev)<br>I’m currently learning about Machine Learning and Generative AI using Python<br>I’m looking to collaborate on any type of projects using Python
+I'm a 16-year-old developer from Rio de Janeiro, Brazil<br>I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui.dev)<br>I’m currently learning about Machine Learning and Generative AI using Python<br>I’m looking to collaborate on any type of projects using Python
 
 
 ## 🌐 Socials:
