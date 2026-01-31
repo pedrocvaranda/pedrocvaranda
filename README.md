@@ -29,12 +29,12 @@ curved manifolds.
 
 ### ⚛️ Physics & Geography
 - ⚡ **IPhyc**: International Physics Competition (Result Pending)
-- 🌍 **OBG**: 2× Consecutive Gold Medals (2024-2025)
+- 🥇 **OBG**: 2× Consecutive Gold Medals (2024-2025)
 
 ### 🔬 Research
 - 📄 **Varandian Optics**
 - 🎓 **Stanford Online**: 3× Certificates in AI/ML
-- 🎓 **AWS**: Certificates in AI/ML
+- 🌐 **AWS**: Certificates in AI/ML
 
 ## 💻 Featured Projects
 
