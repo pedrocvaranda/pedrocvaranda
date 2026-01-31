@@ -6,7 +6,7 @@ I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui
 
 ## 🔬 Research
 
-**Varandian Optics: A Non-Euclidean Formulation of Light Propagation**  
+### **Varandian Optics: A Non-Euclidean Formulation of Light Propagation**  
 
 Extended geometric optics to constant-curvature spaces using Riemannian geometry, 
 establishing new optical laws for propagation, refraction, and reflection in 
