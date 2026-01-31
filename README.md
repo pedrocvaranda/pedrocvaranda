@@ -18,8 +18,8 @@ curved manifolds.
 
 ### 🔭 Astronomy & Astrophysics
 - 🥇 **OBA 2025**: Gold Medal + **#1 in Brazil** (Perfect Score)
-- 🥈 **OBA 2023**: Gold Medal + #2 in Brazil
-- 🥉 **OBA 2024**: Gold Medal + #3 in Brazil
+- 🏅 **OBA 2023**: Gold Medal + #2 in Brazil
+- 🏅 **OBA 2024**: Gold Medal + #3 in Brazil
 - 🎯 **IOAA**: 3× Selected for Brazilian National Team Selection
 
 ### 🧮 Mathematics
