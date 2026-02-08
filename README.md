@@ -11,6 +11,7 @@ I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui
 Extended geometric optics to constant-curvature spaces using Riemannian geometry, 
 establishing new optical laws for propagation, refraction, and reflection in 
 curved manifolds.
+Avaliable [here](https://doi.org/10.5281/zenodo.18529071)
 
 ### 💻 [Interactive simulator](link) *(Coming Soon)*
 
