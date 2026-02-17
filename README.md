@@ -67,4 +67,6 @@ Interactive chess learning system with strategic insights for the Queen's Gambit
 
 **"Remember to look up at the stars and not down at your feet."** — Stephen Hawking
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/pedrocvaranda/pedrocvaranda/output/snake.svg" alt="Snake animation" />
+
+###
