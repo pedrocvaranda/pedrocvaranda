@@ -68,3 +68,4 @@ Interactive chess learning system with strategic insights for the Queen's Gambit
 **"Remember to look up at the stars and not down at your feet."** — Stephen Hawking
 
 [![Blastoise](https://img.pokemondb.net/sprites/black-white/anim/normal/blastoise.gif)](https://pokemondb.net/pokedex/blastoise)
+[](https://64.media.tumblr.com/0c32f2de4e454d7f23814cc2baf9a00d/tumblr_oehwe1ROKB1scncwdo1_540.gif)
