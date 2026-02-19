@@ -15,6 +15,7 @@ curved manifolds.
 **Avaliable [here](https://doi.org/10.5281/zenodo.18529071)**
 
 ### 💻 [Interactive simulator](https://github.com/pedrocvaranda/varadian-optics-simulator)
+Interactive 2D visualization of light propagation in constant-curvature spaces
 
 ## 🏆 Achievements
 
