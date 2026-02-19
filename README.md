@@ -30,7 +30,7 @@ curved manifolds.
 - 🥉 **OBMEP**: 2× Bronze Medals (2023, 2025)
 
 ### ⚛️ Physics & Geography
-- ⚡ **IPhyc**: International Physics Competition (Result Pending)
+- ⚡ **IPhyc**: International Physics Competition (Pre Finalist)
 - 🥇 **OBG**: 2× Consecutive Gold Medals (2024-2025)
 
 ### 🔬 Research
