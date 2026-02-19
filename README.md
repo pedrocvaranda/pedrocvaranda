@@ -14,7 +14,7 @@ curved manifolds.
 
 **Avaliable [here](https://doi.org/10.5281/zenodo.18529071)**
 
-### 💻 [Interactive simulator](link) *(Coming Soon)*
+### 💻 [Interactive simulator](https://github.com/pedrocvaranda/varadian-optics-simulator)
 
 ## 🏆 Achievements
 
