@@ -51,6 +51,8 @@ risk-adjusted capital allocation. Helps small operators survive uncertainty.
 
 DOI: 10.5281/zenodo.18529638
 
+Also avaliable [HERE](https://doi.org/10.5281/zenodo.18529638)
+
 **Tech:** Python • scikit-learn • NumPy • Pandas • Streamlit
 
 ---
