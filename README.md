@@ -64,6 +64,13 @@ Interactive chess learning system with strategic insights for the Queen's Gambit
 
 ---
 
+### ✖️ [Tic-tac-toe AI](https://github.com/pedrocvaranda/tictactoe-ai)
+A fully interactive Tic-Tac-Toe game with a web interface and a provably optimal AI.
+
+**Tech:** Python • JavaScript • HTML • CSS • Minimax Algorithm • Flask
+
+---
+
 ### 🌐 [Real-time Brasil API Project](link) *(Coming Soon)*
 
 # 🔨 Tech Stack:
