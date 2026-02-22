@@ -6,13 +6,15 @@ I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui
 
 ## 🔬 Research
 
-### **Varandian Optics: A Non-Euclidean Formulation of Light Propagation**  
+### **Varandian Optics: A Non-Euclidean Formulation of Light Propagation**
 
 Extended geometric optics to constant-curvature spaces using Riemannian geometry, 
 establishing new optical laws for propagation, refraction, and reflection in 
 curved manifolds.
 
-**Avaliable [here](https://doi.org/10.5281/zenodo.18529071)**
+DOI: 10.5281/zenodo.18529071
+
+**Avaliable [HERE](https://doi.org/10.5281/zenodo.18529071)**
 
 ### 💻 [Interactive simulator](https://github.com/pedrocvaranda/varadian-optics-simulator)
 Interactive 2D visualization of light propagation in constant-curvature spaces
@@ -46,6 +48,8 @@ Interactive 2D visualization of light propagation in constant-curvature spaces
 ### 🤖 [Smart Cash Allocation Model](https://github.com/pedrocvaranda/modelo_alocacao_caixa)
 Machine learning-based financial optimizer using Monte Carlo simulation for 
 risk-adjusted capital allocation. Helps small operators survive uncertainty.
+
+DOI: 10.5281/zenodo.18529638
 
 **Tech:** Python • scikit-learn • NumPy • Pandas • Streamlit
 
