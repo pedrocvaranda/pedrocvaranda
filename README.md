@@ -31,7 +31,7 @@ Interactive 2D visualization of light propagation in constant-curvature spaces
 
 ### 🧮 Mathematics
 - 🥇 **Canguru**: 4× Consecutive Gold Medals (2022-2025)
-- 🏅 **IYMC**: International Youth Math Challenge (Result Pending)
+- 🥉 **IYMC 2025**: Bronze Medal, Top 10% Global 
 - 🥉 **OBMEP**: 2× Bronze Medals (2023, 2025)
 
 ### ⚛️ Physics & Geography
