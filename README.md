@@ -4,6 +4,19 @@ Physics researcher, competitive mathematician and aspiring computer scientist <b
 Exploring the intersection of geometry, AI, and real-world applications <br>
 I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui.dev)
 
+[![Currently Learning](https://img.shields.io/badge/Learning-Go-00ADD8?style=flat&logo=go)](https://go.dev)
+[![Publications](https://img.shields.io/badge/Publications-DOIs-blue?style=flat)](https://is.gd/pedrocvaranda)
+
+## 🚀 Currently Working On
+
+**Learning Go** - Building [distributed-quant](https://github.com/pedrocvaranda/distributed-quant)
+
+A distributed Monte Carlo portfolio simulation system with:
+- P2P overlay network
+- Rolling window optimization  
+- Auto-calibrating feedback loops
+- Linear horizontal scaling
+
 ## 🔬 Research
 
 ### **Varandian Optics: A Non-Euclidean Formulation of Light Propagation**
@@ -12,9 +25,7 @@ Extended geometric optics to constant-curvature spaces using Riemannian geometry
 establishing new optical laws for propagation, refraction, and reflection in 
 curved manifolds.
 
-DOI: 10.5281/zenodo.18529071
-
-**Avaliable [HERE](https://doi.org/10.5281/zenodo.18529071)**
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18529071-blue?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.18529071)
 
 ### 💻 [Interactive simulator](https://github.com/pedrocvaranda/varadian-optics-simulator)
 Interactive 2D visualization of light propagation in constant-curvature spaces
@@ -49,9 +60,7 @@ Interactive 2D visualization of light propagation in constant-curvature spaces
 Machine learning-based financial optimizer using Monte Carlo simulation for 
 risk-adjusted capital allocation. Helps small operators survive uncertainty.
 
-DOI: 10.5281/zenodo.18529638
-
-Also avaliable [HERE](https://doi.org/10.5281/zenodo.18529638)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18529639-blue?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.18529639)
 
 **Tech:** Python • scikit-learn • NumPy • Pandas • Streamlit
 
@@ -70,8 +79,6 @@ A fully interactive Tic-Tac-Toe game with a web interface and a provably optimal
 **Tech:** Python • JavaScript • HTML • CSS • Minimax Algorithm • Flask
 
 ---
-
-### 🌐 [Real-time Brasil API Project](link) *(Coming Soon)*
 
 # 🔨 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
