@@ -51,8 +51,8 @@ Interactive 2D visualization of light propagation in constant-curvature spaces
 
 ### 🔬 Research
 - 📄 **Varandian Optics**
-- 🎓 **Stanford Online**: 3× Certificates in AI/ML
-- 🌐 **AWS**: Certificates in AI/ML
+- 🎓 **Stanford Online**: 3× Certificates in ML
+- 🌐 **AWS**: Certificates in LLMs
 
 ## 💻 Featured Projects
 
