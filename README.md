@@ -9,10 +9,9 @@ I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui
 
 ## 🚀 Currently Working On
 
-**Learning Go** - Building [distributed-quant](https://github.com/pedrocvaranda/distributed-quant)
+**Learning Go** - Building [portfolio-tracker](https://github.com/pedrocvaranda/portfolio-tracker)
 
 A distributed Monte Carlo portfolio simulation system with:
-- P2P overlay network
 - Rolling window optimization  
 - Auto-calibrating feedback loops
 - Linear horizontal scaling
