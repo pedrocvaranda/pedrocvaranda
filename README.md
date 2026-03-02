@@ -7,16 +7,16 @@ I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui
 [![Currently Learning](https://img.shields.io/badge/Learning-Go-00ADD8?style=flat&logo=go)](https://go.dev)
 [![Publications](https://img.shields.io/badge/Publications-DOIs-blue?style=flat)](https://is.gd/pedrocvaranda)
 
-## 🚀 Currently Working On
+## Currently Working On
 
-**Learning Go** - Building [portfolio-tracker](https://github.com/pedrocvaranda/portfolio-tracker)
+**Learning Go (2026)** - Building [portfolio-tracker](https://github.com/pedrocvaranda/portfolio-tracker)
 
 A distributed Monte Carlo portfolio simulation system with:
 - Rolling window optimization  
 - Auto-calibrating feedback loops
 - Linear horizontal scaling
 
-## 🔬 Research
+## Research
 
 ### **Varandian Optics: A Non-Euclidean Formulation of Light Propagation**
 
@@ -26,36 +26,36 @@ curved manifolds.
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18529071-blue?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.18529071)
 
-### 💻 [Interactive simulator](https://github.com/pedrocvaranda/varadian-optics-simulator)
+### [Interactive simulator](https://github.com/pedrocvaranda/varadian-optics-simulator)
 Interactive 2D visualization of light propagation in constant-curvature spaces
 
 **Tech:** Python • NumPy • Jupyter Notebooks
 
-## 🏆 Achievements
+## Achievements
 
-### 🔭 Astronomy & Astrophysics
+### Astronomy & Astrophysics
 - 🥇 **OBA 2025**: Gold Medal + **#1 in Brazil** (Perfect Score)
 - 🏅 **OBA 2023**: Gold Medal + #2 in Brazil
 - 🏅 **OBA 2024**: Gold Medal + #3 in Brazil
 - 🎯 **IOAA**: 3× Selected for Brazilian National Team Selection
 
-### 🧮 Mathematics
+### Mathematics
 - 🥇 **Canguru**: 4× Consecutive Gold Medals (2022-2025)
 - 🥉 **IYMC 2025**: Bronze Medal, Top 10% Global 
 - 🥉 **OBMEP**: 2× Bronze Medals (2023, 2025)
 
-### ⚛️ Physics & Geography
+### Physics & Geography
 - ⚡ **IPhyc**: International Physics Competition (Pre Finalist)
 - 🥇 **OBG**: 2× Consecutive Gold Medals (2024-2025)
 
-### 🔬 Research
+### Research
 - 📄 **Varandian Optics**
 - 🎓 **Stanford Online**: 3× Certificates in ML
 - 🌐 **AWS**: Certificates in LLMs
 
-## 💻 Featured Projects
+## Featured Projects
 
-### 🤖 [Smart Cash Allocation Model](https://github.com/pedrocvaranda/modelo_alocacao_caixa)
+### [Smart Cash Allocation Model](https://github.com/pedrocvaranda/modelo_alocacao_caixa)
 Machine learning-based financial optimizer using Monte Carlo simulation for 
 risk-adjusted capital allocation. Helps small operators survive uncertainty.
 
@@ -65,27 +65,25 @@ risk-adjusted capital allocation. Helps small operators survive uncertainty.
 
 ---
 
-### ♟️ [Intelligent Chess Trainer](https://github.com/pedrocvaranda/treinador-xadrez)
+### [Intelligent Chess Trainer](https://github.com/pedrocvaranda/treinador-xadrez)
 Interactive chess learning system with strategic insights for the Queen's Gambit opening.
 
 **Tech:** Python • python-chess
 
 ---
 
-### ✖️ [Tic-Tac-Toe AI](https://github.com/pedrocvaranda/tictactoe-ai)
+### [Tic-Tac-Toe AI](https://github.com/pedrocvaranda/tictactoe-ai)
 A fully interactive Tic-Tac-Toe game with a web interface and a provably optimal AI.
 
 **Tech:** Python • JavaScript • HTML • CSS • Minimax Algorithm • Flask
 
 ---
 
-# 🔨 Tech Stack:
+## Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 
 --- 
 
-**"Remember to look up at the stars and not down at your feet."** — Stephen Hawking
-
-![Squirtle/Wartortle/Blastoise](Squirtle.gif)
+**"Remember to look up at the stars and not down at your feet."** - Stephen Hawking
