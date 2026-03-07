@@ -4,8 +4,8 @@ Research-driven builder, competitive mathematician and aspiring computer scienti
 Exploring the intersection of geometry, AI, and real-world applications <br>
 I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui.dev)
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--5199--1745-green?style=flat&logo=orcid)](https://orcid.org/0009-0004-5199-1745)
 [![Currently Learning](https://img.shields.io/badge/Learning-Go-00ADD8?style=flat&logo=go)](https://go.dev)
-[![Publications](https://img.shields.io/badge/Publications-DOIs-blue?style=flat)](https://is.gd/pedrocvaranda)
 
 ## Currently Working On
 
