@@ -68,6 +68,8 @@ risk-adjusted capital allocation. Helps small operators survive uncertainty.
 ### [Intelligent Chess Trainer](https://github.com/pedrocvaranda/treinador-xadrez)
 Interactive chess learning system with strategic insights for the Queen's Gambit opening.
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18529071-blue?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.19040991)
+
 **Tech:** Python • python-chess
 
 ---
