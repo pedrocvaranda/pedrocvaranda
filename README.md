@@ -9,7 +9,7 @@ I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui
 
 ## Currently Working On
 
-**Learning Go (2026)** - Building [portfolio-tracker](https://github.com/pedrocvaranda/portfolio-tracker)
+Building [portfolio-tracker](https://github.com/pedrocvaranda/portfolio-tracker)
 
 A distributed Monte Carlo portfolio simulation system with:
 - Rolling window optimization  
@@ -62,6 +62,13 @@ risk-adjusted capital allocation. Helps small operators survive uncertainty.
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18529639-blue?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.18529639)
 
 **Tech:** Python • scikit-learn • NumPy • Pandas • Streamlit
+
+---
+
+### [Golang Roadmap](https://github.com/pedrocvaranda/golang-roadmap)
+A structured, progressive Go (Golang) study roadmap designed for 2026, covering fundamentals to advanced topics.
+
+**Tech:** Golang • HTML • MySQL
 
 ---
 
