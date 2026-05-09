@@ -68,6 +68,8 @@ risk-adjusted capital allocation. Helps small operators survive uncertainty.
 ### [Golang Roadmap](https://github.com/pedrocvaranda/golang-roadmap)
 A structured, progressive Go (Golang) study roadmap designed for 2026, covering fundamentals to advanced topics.
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18529639-blue?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.20099794) 
+
 **Tech:** Golang • HTML • MySQL
 
 ---
