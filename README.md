@@ -5,16 +5,7 @@ Exploring the intersection of geometry, AI, and real-world applications <br>
 I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui.dev)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--5199--1745-green?style=flat&logo=orcid)](https://orcid.org/0009-0004-5199-1745)
-[![Currently Learning](https://img.shields.io/badge/Learning-Go-00ADD8?style=flat&logo=go)](https://go.dev)
-
-## Currently Working On
-
-Building [portfolio-tracker](https://github.com/pedrocvaranda/portfolio-tracker)
-
-A distributed Monte Carlo portfolio simulation system with:
-- Rolling window optimization  
-- Auto-calibrating feedback loops
-- Linear horizontal scaling
+[![Currently Learning](https://img.shields.io/badge/Learning-Go-00ADD8?style=flat&logo=go)](https://go.dev
 
 ## Research
 
@@ -83,6 +74,13 @@ Interactive chess learning system with strategic insights for the Queen's Gambit
 
 ---
 
+### [Portfolio Tracker](https://github.com/pedrocvaranda/portfolio-tracker)
+Monte Carlo simulation engine for market data collection, price validation, parameter calibration, and forecast backtesting
+
+
+**Tech:** Golang • HTML • JS
+
+---
 
 ## Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
