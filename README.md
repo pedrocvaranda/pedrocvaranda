@@ -77,6 +77,7 @@ Interactive chess learning system with strategic insights for the Queen's Gambit
 ### [Portfolio Tracker](https://github.com/pedrocvaranda/portfolio-tracker)
 Monte Carlo simulation engine for market data collection, price validation, parameter calibration, and forecast backtesting
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20855801-blue?style=flat&logo=doi)](https://doi.org/10.5281/zenodo.20855801)
 
 **Tech:** Golang • HTML • JS
 
