@@ -28,10 +28,11 @@ Interactive 2D visualization of light propagation in constant-curvature spaces
 - 🥇 **OBA 2025**: Gold Medal + **#1 in Brazil** (Perfect Score)
 - 🏅 **OBA 2023**: Gold Medal + #2 in Brazil
 - 🏅 **OBA 2024**: Gold Medal + #3 in Brazil
-- 🎯 **IOAA**: 3× Selected for Brazilian National Team Selection
+- 🥈 **OBA 2026**: Silver Medal
+- 🎯 **IOAA**: 4× Selected for Brazilian National Team Selection
 
 ### Mathematics
-- 🥇 **Canguru**: 4× Consecutive Gold Medals (2022-2025)
+- 🥇 **Canguru**: 4× Consecutive Gold Medals (2022-2025) + Silver Medal (2026)
 - 🥉 **IYMC 2025**: Bronze Medal, Top 10% Global 
 - 🥉 **OBMEP**: 2× Bronze Medals (2023, 2025)
 
