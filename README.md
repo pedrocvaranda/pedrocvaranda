@@ -28,7 +28,6 @@ Interactive 2D visualization of light propagation in constant-curvature spaces
 - 🥇 **OBA 2025**: Gold Medal + **#1 in Brazil** (Perfect Score)
 - 🏅 **OBA 2023**: Gold Medal + #2 in Brazil
 - 🏅 **OBA 2024**: Gold Medal + #3 in Brazil
-- 🥈 **OBA 2026**: Silver Medal
 - 🎯 **IOAA**: 4× Selected for Brazilian National Team Selection
 
 ### Mathematics
