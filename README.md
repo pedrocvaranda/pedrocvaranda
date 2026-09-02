@@ -39,7 +39,7 @@ Interactive 2D visualization of light propagation in constant-curvature spaces
 
 ### Physics & Geography
 - ⚡ **IPhyc**: International Physics Competition (Pre Finalist)
-- 🥇 **OBG**: 2× Consecutive Gold Medals (2024-2025)
+- 🥇 **OBG**: 3x Consecutive Gold Medals (2024-2026)
 - 🐈 **GQMC**: Invitation
 
 ### Leadership & Scientific Outreach
