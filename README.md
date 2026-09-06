@@ -1,12 +1,16 @@
 # Hey there! 👋 I'm Pedro Varanda
 
-🇧🇷 Native Portuguese | 🇬🇧 Fluent English | 🇪🇸 Fluent Spanish <br>
 Research-driven builder, competitive mathematician and aspiring computer scientist <br>
-Exploring the intersection of geometry, AI, and real-world applications <br>
+Exploring the intersection of finance, math, computer science and real-world applications <br>
 I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui.dev)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--5199--1745-green?style=flat&logo=orcid)](https://orcid.org/0009-0004-5199-1745)
 
+## Languages
+* **Portuguese** | Native 🇧🇷
+* **English** | Fluent / Bilingual 🇬🇧
+* **Spanish** | Fluent 🇪🇸
+* **German / French / Italian** | Targeting proficiency by 2030 🇩🇪 🇫🇷 🇮🇹
 
 ## Research
 
