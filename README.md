@@ -1,5 +1,6 @@
 # Hey there! 👋 I'm Pedro Varanda
 
+🇧🇷 Native Portuguese | 🇬🇧 Fluent English | 🇪🇸 Fluent Spanish <br>
 Research-driven builder, competitive mathematician and aspiring computer scientist <br>
 Exploring the intersection of geometry, AI, and real-world applications <br>
 I've had a 2-year experience working/studying with [**Codaqui**](https://codaqui.dev)
